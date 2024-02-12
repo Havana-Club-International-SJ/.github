@@ -1,9 +1,11 @@
-<picture>
-	<source width="400" media="(prefers-color-scheme: dark)" srcset="LOGO.png">
-	<source width="400" media="(prefers-color-scheme: light)" srcset="LOGO.png">
-	<img width="400" alt="LOGO" src="LOGO.png">
-</picture>
-<h3 align="center">The authentic Cuban rum</h3>
+<center>
+	<picture>
+		<source width="500" media="(prefers-color-scheme: dark)" srcset="https://github.com/Havana-Club-International-SJ/.github/blob/master/profile/LOGO.png">
+		<source width="500" media="(prefers-color-scheme: light)" srcset="https://github.com/Havana-Club-International-SJ/.github/blob/master/profile/LOGO.png">
+		<img width="500" alt="LOGO" src="https://github.com/Havana-Club-International-SJ/.github/blob/master/profile/LOGO.png">
+	</picture>
+</center>
+<h3 align="center">The authentic Cuban rum</h3>    
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hci&label=Profile%20views&color=0e75b6&style=flat" alt="hci" /> </p>
 
